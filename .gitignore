@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore data folder CSVs (if you download raw CSVs locally)
+data/*.csv
+
+
+
+
+
+
+
