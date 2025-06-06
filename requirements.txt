@@ -1,0 +1,7 @@
+# requirements.txt
+
+numpy>=1.25.0
+pandas>=2.1.0
+matplotlib>=3.7.0
+seaborn>=0.14.0
+scikit-learn>=1.2.0
